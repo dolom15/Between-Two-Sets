@@ -1,1 +1,1 @@
-# Between-Two-Sets
+# Between-Two-Sets This code calculates how many integers are multiples of all elements in array `a` and also divisors of all elements in array `b` by computing the LCM of `a` and the GCD of `b`. It then counts the numbers between the LCM and GCD that satisfy both conditions and returns that count.
